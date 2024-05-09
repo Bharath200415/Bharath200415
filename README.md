@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Bharath200415
-- 👀 I’m interested in python programming and data structures
-- 🌱 I’m currently an undergraduate student
-- 💞️ I’m looking to collaborate on python projects based on MySQL and even binary projects
-- 📫 You can contact me through email: bharath200415@gmail.com
+- 👋 Hi, I’m Bharath 
+- 🌱 I’m currently an undergraduate student at VIT Bhopal University
+- 👀 currently into web development and designing UI/UX. 
+- 💞️ I’m looking to collaborate on machine learning based projects in python and even front end web design tasks. 
+- 📫 You can contact me through email or linkedin: mail- bharath200415@gmail.com
+- linkedin profile: https://linkedin.com/bharathcodes
 
 
