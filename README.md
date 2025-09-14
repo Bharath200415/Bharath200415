@@ -18,18 +18,19 @@ Hi, I'm Bharath!
 </p>
 <hr>
 <pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning &amp; Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+📚 Currently doing my UnderGrad from VIT Bhopal
+📝 I have a strong interest in UI/UX &amp; Full-stack development
+🔭 Working on DSA &amp; Problem Solving
+🌱 Learning NextJs
+🌟 Main languages: C++, JavaScript, Java
 🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1QYuSMKU5uQ0QMgFCwF1ymznML9_abNVA/view?usp=sharing">MY RESUME.</a>
 </pre>
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
 <p align="center">
-	<a href="mailto:bharath200415@gmail.com"><img img="" src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
+	<a href="https://www.bharath.codes/"><img src="https://img.shields.io/badge/Website-%23EA4335.svg?style=plastic&amp;logo=website&amp;logoColor=white"></a>
+	<a href="mailto:bharath200415@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/bharathcodes/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/bharath200415"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
 	<a href="https://www.kaggle.com/bharath200415"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&amp;logo=kaggle&amp;logoColor=white" alt="Kaggle"></a>
