@@ -14,9 +14,7 @@ Hi, I'm Bharath!
 </p>
 <br>
 <p align="center">
-	<a href="https://github.com/Bharath200415">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=30">
-	</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=100&amp;lines=Front+End+Developer+;Free+lancer;Computer+Science+Student,;UI/UX+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.&lt;3"></a>
 </p>
 <hr>
 <pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
