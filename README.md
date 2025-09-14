@@ -29,7 +29,7 @@ Hi, I'm Bharath!
 <hr>
 <h2 id="-connect-with-me">🤝 Connect with me</h2>
 <p align="center">
-	<a href="https://www.bharath.codes/"><img src="https://img.shields.io/badge/Website-%23EA4335.svg?style=plastic&amp;logo=website&amp;logoColor=white"></a>
+	<a href="https://www.bharath.codes/"><img src="https://img.shields.io/badge/portfolio-%230A66C2.svg?style=plastic&amp;logoColor=black"></a>
 	<a href="mailto:bharath200415@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
 	<a href="https://www.linkedin.com/in/bharathcodes/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
 	<a href="https://github.com/bharath200415"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&amp;logo=github&amp;logoColor=white" alt="GitHub"></a>
