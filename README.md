@@ -4,17 +4,17 @@ Hi, I'm Bharath!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/bharath200415">
 		<img src="https://komarev.com/ghpvc/?username=bharath200415&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Bharath">
 	</a>
 	<a href="https://github.com/Bharath200415">
 		<img src="https://img.shields.io/github/followers/bharath200415?label=Followers" alt="bouaskaoun">
 	</a>
-</p>
+</p> -->
 <br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=40&amp;lines=Front+End+Developer+;Free+lancer;Computer+Science+Student,;UI/UX+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.&lt;3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=30&amp;lines=Front+End+Developer+;Freelancer;Computer+Science+Student,;UI/UX+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.&lt;3"></a>
 </p>
 <hr>
 <pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
