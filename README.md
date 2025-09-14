@@ -9,13 +9,13 @@ Hi, I'm Bharath!
 		<img src="https://komarev.com/ghpvc/?username=bharath200415&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="Bharath">
 	</a>
 	<a href="https://github.com/Bharath200415">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bharath200415?label=Followers" alt="bouaskaoun">
 	</a>
 </p>
 <br>
 <p align="center">
 	<a href="https://github.com/Bharath200415">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&amp;center=true&amp;width=380&amp;height=30">
 	</a>
 </p>
 <hr>
