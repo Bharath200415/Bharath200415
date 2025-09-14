@@ -17,7 +17,7 @@ Hi, I'm Bharath!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;color=cyan&amp;size=25&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=30&amp;lines=Front+End+Developer+;Freelancer;Computer+Science+Student,;UI/UX+Designer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs.&lt;3"></a>
 </p>
 <hr>
-<pre>💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+<pre>💻 I am a Full Stack Developer and a UI/UX Designer
 📚 Currently doing my UnderGrad from VIT Bhopal
 📝 I have a strong interest in UI/UX &amp; Full-stack development
 🔭 Working on DSA &amp; Problem Solving
