@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bharath;DSA+%26+Web+&+Tech+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bharath;Web+%26+Tech+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <h3 align="center">💻 Focused on clean code, efficient algorithms, and intuitive web interfaces.</h3>
 
@@ -34,7 +34,7 @@
 <p align="center">
   <a href="https://github.com/bharath200415">
     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharath200415&theme=aura" />
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharath2000415&theme=aura" />
+    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharath200415&theme=aura" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
   <a href="https://leetcode.com/zustydev" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://codeforces.com/profile/bharath200415" target="_blank">
+  <a href="https://codeforces.com/profile/Tanmaya07" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://codolio.com/profile/Tanmaya07" target="_blank">
