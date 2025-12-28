@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bharath;Web+%26+Tech+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://codolio.com/profile/Tanmaya07" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-00bfbf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+    <img src="https://img.shields.io/badge/Codolio-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
   </a>
 </p>
 
@@ -79,4 +79,4 @@
 ---
 
 <h2 align="center">✨ Thanks for stopping by! ✨</h2>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
