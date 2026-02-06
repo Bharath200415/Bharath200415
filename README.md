@@ -25,11 +25,6 @@
 
 ### 📈 GitHub Activity Graph
 
-<p align="center">
-  <a href="https://github.com/bharath200415">
-    <img height="150em" src="https://streak-stats.demolab.com?user=bharath200415&theme=aura&hide_border=false&border_radius=10" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/bharath200415">
