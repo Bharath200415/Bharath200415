@@ -1,61 +1,46 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<h1 align="center">N Bharath</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bharath;Web+%26+Tech+Enthusiast;Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-<h3 align="center">💻 Focused on clean code, efficient algorithms, and intuitive web interfaces.</h3>
-
----
-
-### 👨‍💻 About Me
-
-- 🎯 Enthusiastic about **Data Structures & Algorithms** and **Web Development**
-- 🧠 Currently learning **backend systems** and scalable architectures
-- 🚀 Always exploring better ways to write **clean, readable, and efficient code**
-- 🤝 Open to collaboration on interesting tech projects
-
----
-
-### 🛠️ Tech Stack
+<h3 align="center">Aspiring Software developer building stuff from zero.</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,js,ts,react,nextjs,mysql,git,github,aws,postman,figma,vscode" />
+  <a href="https://x.com/zustydev" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/bharathcodes/" target="_blank">linkedin</a> •
+  <a href="https://github.com/bharath200415" target="_blank">github</a> •
+  <a href="mailto:bharath200415@gmail.com" target="_blank">email</a>
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph
+#### 🔷 my goto stack
+- typescript · javascript · python · react · next.js · node.js · express · mongoDB · postgresql ·  tailwind 
+  
+
+#### 🔷 current work
+
+- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
+  
+- **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking application using Local storage .
+
+- **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limit IP addresses hitting your server using redist fast memory optimization.
+
+- **[Link Preview](https://github.com/KartikLabhshetwar/linkpreview)** - Preview how your links appear on social platforms.
+
+- **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
+
+- **[Kylix UI](https://github.com/Bharath200415/Framer-UI-Components)** — UI Component Library filled with components built using framer motion(prev.)/motion for react 
+
+- **[SnapQR](https://github.com/Bharath200415/SnapQR)** - A quick browser extension to convert your links to QR codes instantly.
 
 
-<p align="center">
-  <a href="https://github.com/bharath200415">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharath200415&theme=aura" />
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharath200415&theme=aura" />
-  </a>
-</p>
+#### 🔷 building from zero
 
-<p align="center">
-  <a href="https://github.com/bharath200415">
-    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharath200415&theme=aura" />
-    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharath200415&theme=aura&utcOffset=5.5" />
-  </a>
-</p>
+I build from zero. Whether it's frontend, backend, full-stack applications, or AI-powered experiences, I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
 
-<p align="center">
-  <a href="https://github.com/bharath200415">
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharath200415&theme=aura" />
-  </a>
-</p>
+#### 🔷 currently exploring
+- **AI/ML systems:** Integrating large language models into production applications, understanding model capabilities, and building intelligent user experiences.
+- **Full-stack architecture:** Designing scalable, maintainable systems that span from user interfaces to backend infrastructure.
+- **Developer experience:** Creating tools and extensions that enhance productivity and streamline development workflows.
 
-
-
-### 📫 Contact Me
-
-<p align="center">
-  <a href="mailto:bharath200415@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bharathcodes"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</p>
-
----
-
-<h2 align="center">✨ Thanks for stopping by! ✨</h2>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bharath200415&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
