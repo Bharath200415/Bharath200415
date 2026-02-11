@@ -46,23 +46,7 @@
   </a>
 </p>
 
----
 
-### 🌐 Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/zustydev" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://codeforces.com/profile/Tanmaya07" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://codolio.com/profile/Tanmaya07" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-00BFFF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
-
----
 
 ### 📫 Contact Me
 
