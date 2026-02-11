@@ -1,6 +1,6 @@
-<h1 align="center">N Bharath</h1>
+<h1 align="center">Hi, I'm Bharath 👋</h1>
 
-<h3 align="center">Aspiring Software developer building stuff from zero.</h3>
+<h3 align="center">An aspiring Software Developer turning ideas into code from scratch.</h3>
 
 <p align="center">
   <a href="https://x.com/zustydev" target="_blank">twitter</a> •
