@@ -18,6 +18,8 @@
 #### 🔷 current work
 
 - **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
+
+- **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly. 
   
 - **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking application using Local storage .
 
