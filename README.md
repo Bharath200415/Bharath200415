@@ -25,9 +25,9 @@
 
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A comprehensive complaint management system designed for rural India (MERN Stack)
   
-- **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking application using Local storage .
+- **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking React Application utilizing the browser's Local storage .
 
-- **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limit IP addresses hitting your server using redist fast memory optimization.
+- **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
 
 - **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
 
