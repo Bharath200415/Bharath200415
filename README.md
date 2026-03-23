@@ -18,7 +18,9 @@
 #### 🔷 current work
 
 - **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
-
+  
+- **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
+  
 - **[Agenforce Landing Page](https://github.com/Bharath200415/AgenForce_LandingPage)** - A Minimalistic yet Clean SaaS Agency Landing Page built with Framer Motion.
 
 - **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly. 
@@ -33,7 +35,7 @@
 
 - **[Kylix UI](https://github.com/Bharath200415/Framer-UI-Components)** — UI Component Library filled with components built using framer motion(prev.)/motion for react 
 
-- **[SnapQR](https://github.com/Bharath200415/SnapQR)** - A quick browser extension to convert your links to QR codes instantly.
+- **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
 
 
 #### 🔷 building from zero
