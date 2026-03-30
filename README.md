@@ -37,6 +37,23 @@
 
 - **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
 
+---
+### 🔷 coding profiles
+
+<p align="center">
+  <a href="https://leetcode.com/flickat19/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/bharath200415" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="https://codolio.com/profile/Bharath@20" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-00bfbf?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/>
+  </a>
+</p>
+
+---
+
 
 #### 🔷 building from zero
 
