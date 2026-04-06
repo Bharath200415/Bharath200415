@@ -6,6 +6,7 @@
   <a href="https://x.com/zustydev" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/bharathcodes/" target="_blank">linkedin</a> •
   <a href="https://github.com/bharath200415" target="_blank">github</a> •
+  <a href="https://leetcode.com/flickat19" target="_blank">leetcode</a> •
   <a href="mailto:bharath200415@gmail.com" target="_blank">email</a>
 </p>
 
