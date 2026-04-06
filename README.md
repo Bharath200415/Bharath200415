@@ -18,7 +18,11 @@
 #### 🔷 current work
 
 - **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
-  
+
+- **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
+
+- **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
+
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
 - **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly. 
