@@ -18,9 +18,9 @@
 
 #### 🔷 current work
 
-- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
+- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer. [Building]
 
-- **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
+- **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform. [Building]
 
 - **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
 
