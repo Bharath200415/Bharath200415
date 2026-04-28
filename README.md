@@ -22,6 +22,8 @@
 
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform. [Building]
 
+- **[Wingman](https://github.com/Bharath200415/wingman)** — Ai Based Visual Whatsapp Chat Analyzer with an Interactive Ai ChatBot. 
+
 - **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
 
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
