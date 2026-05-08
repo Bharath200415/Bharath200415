@@ -18,31 +18,31 @@
 
 #### 🔷 current work
 
-- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer. [Building]
+- **[Wingman](https://github.com/Bharath200415/wingman)** — Ai Based Visual Whatsapp Chat Analyzer with an Interactive Ai ChatBot.
 
-- **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform. [Building]
+- **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A comprehensive complaint management system designed for rural India (MERN Stack)
 
-- **[Wingman](https://github.com/Bharath200415/wingman)** — Ai Based Visual Whatsapp Chat Analyzer with an Interactive Ai ChatBot. 
-
-- **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
+- **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
 
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
-- **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly. 
+- **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
 
-- **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A comprehensive complaint management system designed for rural India (MERN Stack)
+- **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly (Web Scraping tool)
+
+- **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
   
 - **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking React Application utilizing the browser's Local storage .
 
 - **[Agenforce Landing Page](https://github.com/Bharath200415/AgenForce_LandingPage)** - A Minimalistic yet Clean SaaS Agency Landing Page built with Framer Motion.
-
-- **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
 
 - **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
 
 - **[Kylix UI](https://github.com/Bharath200415/Framer-UI-Components)** — UI Component Library filled with components built using framer motion(prev.)/motion for react 
 
 - **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
+
+- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer. 
 
 ---
 ### 🔷 coding profiles
