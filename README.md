@@ -20,9 +20,9 @@
 
 - **[Wingman](https://github.com/Bharath200415/wingman)** — Ai Based Visual Whatsapp Chat Analyzer with an Interactive Ai ChatBot.
 
-- **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — AI-powered design analysis tool that reverse engineers design systems from any website using cloud browser automation.
+- **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — Ai design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
-- **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A comprehensive complaint management system designed for rural India (MERN Stack)
+- **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A fullstack comprehensive complaint management system designed for rural India.
 
 - **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
 
