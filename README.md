@@ -28,7 +28,7 @@
 
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
 
-- **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website, instantly (Web Scraping tool)
+- **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — AI-powered design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
 - **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
   
