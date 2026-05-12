@@ -20,6 +20,8 @@
 
 - **[Wingman](https://github.com/Bharath200415/wingman)** — Ai Based Visual Whatsapp Chat Analyzer with an Interactive Ai ChatBot.
 
+- **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — AI-powered design analysis tool that reverse engineers design systems from any website using cloud browser automation.
+
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A comprehensive complaint management system designed for rural India (MERN Stack)
 
 - **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
@@ -27,8 +29,6 @@
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
-
-- **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — AI-powered design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
 - **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
   
