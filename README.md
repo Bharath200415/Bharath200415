@@ -22,11 +22,13 @@
 
 - **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — Ai design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
+- **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
+
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A fullstack comprehensive complaint management system designed for rural India.
 
 - **[RateIP](https://github.com/Bharath200415/Rate-Limiter)** — IP Rate limiter, limits IP address hitting your server using redis fast memory optimization.
 
-- **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
+- **[Multi-threaded TCP Server](https://github.com/Bharath200415/Multithreaded-TCP_Server)** — A multithreaded TCP server built using Java and Sockets.
 
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
 
