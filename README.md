@@ -42,7 +42,9 @@
 
 - **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
 
-- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer. 
+- **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
+
+- **[TypeScout](https://github.com/Bharath200415/TypeScout)** — Extract fonts from any website & download them instantly.
 
 ---
 ### 🔷 coding profiles
