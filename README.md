@@ -3,7 +3,7 @@
 <h3 align="center">An aspiring Software Developer turning ideas into code from scratch.</h3>
 
 <p align="center">
-  <a href="https://x.com/loopandpixel" target="_blank">twitter</a> •
+  <a href="https://x.com/BharathShips" target="_blank">twitter</a> •
   <a href="https://www.linkedin.com/in/bharathcodes/" target="_blank">linkedin</a> •
   <a href="https://bharath.codes" target="_blank">portfolio</a> •
   <a href="https://leetcode.com/flickat19" target="_blank">leetcode</a> •
