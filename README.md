@@ -25,7 +25,7 @@
 - **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — Ai design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
 - **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
-- 
+
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A fullstack comprehensive complaint management system designed for rural India.
