@@ -24,6 +24,8 @@
   
 - **[TypeScrape](https://github.com/Bharath200415/TypeScrape)** — Ai design analysis tool that reverse engineers design systems from any website using cloud browser automation.
 
+- **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
+- 
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A fullstack comprehensive complaint management system designed for rural India.
@@ -32,19 +34,17 @@
 
 - **[Multi-threaded TCP Server](https://github.com/Bharath200415/Multithreaded-TCP_Server)** — A multithreaded TCP server built using Java and Sockets.
 
+- **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking React Application utilizing the browser's Local storage .
+
+- **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
+
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
 
 - **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
-  
-- **[ZenNotes](https://github.com/bharath200415/ZenNotes)** — Note taking React Application utilizing the browser's Local storage .
 
 - **[Agenforce Landing Page](https://github.com/Bharath200415/AgenForce_LandingPage)** - A Minimalistic yet Clean SaaS Agency Landing Page built with Framer Motion.
 
-- **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
-
 - **[Kylix UI](https://github.com/Bharath200415/Framer-UI-Components)** — UI Component Library filled with components built using framer motion(prev.)/motion for react 
-
-- **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
 
 - **[Resumind](https://github.com/Bharath200415/Ai-Resume-Analyzer)** — AI based resume analyzer.
 
