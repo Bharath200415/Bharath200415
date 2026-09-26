@@ -26,6 +26,8 @@
 
 - **[Todo_cli](https://github.com/Bharath200415/Todo_cli)** — CLI based To-do application.
 
+- **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
+
 - **[VaultX](https://github.com/Bharath200415/VaultX)** — A mini cloud storage app for uploading, managing, and sharing files using AWS services.
 
 - **[Gramin Seva](https://github.com/Bharath200415/graminSeva)** — A fullstack comprehensive complaint management system designed for rural India.
@@ -39,8 +41,6 @@
 - **[SnapQR](https://github.com/Bharath200415/SnapQR)** — A quick browser extension to convert your links to QR codes instantly.
 
 - **[Codesync](https://github.com/Bharath200415/codesync)** — A Collaborative Interview coding platform.
-
-- **[Personal Portfolio](https://github.com/Bharath200415/Personal_Portfolio)** — Clean yet elegant Personal Portfolio.
 
 - **[Agenforce Landing Page](https://github.com/Bharath200415/AgenForce_LandingPage)** - A Minimalistic yet Clean SaaS Agency Landing Page built with Framer Motion.
 
